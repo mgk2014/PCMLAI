@@ -56,6 +56,7 @@ The analysis presented here is very brief and explores only a couple of coupon t
 This analysis includes exploration of overall data set, bar coupons and cheap restaurant coupons.
 
 1. Total 12684 coupons were offered, 7146 (56.73%) coupons were accepted 
+
     ![Coupons offered vs Accepted](plots/1-proportion_of_coupons_accepted.png)
 
 2. Coffee house coupons were offered the most 3987, while expensive restaurants coupons were the least offered 1486
@@ -72,7 +73,7 @@ This analysis includes exploration of overall data set, bar coupons and cheap re
 
     ![Bar Coupons](plots/5-bar_coupon_acceptance.png)
 
- 2. Drivers who went to bar three or fewer times were **4.37** times more likely to accept a bar coupon (669 accepted) v/s those that went more times (153 accepted)
+ 2. Drivers who went to bar three or fewer times were **4.32** times more likely to accept a bar coupon (669 accepted) v/s those that went more times (153 accepted)
  
     ![Drivers three or fewer times](plots/6-bar_three_or_fewertimes.png)
 
@@ -80,12 +81,11 @@ This analysis includes exploration of overall data set, bar coupons and cheap re
 
     ![Drivers more than once a month](plots/7-bar_morethanonce_gt25.png)
 
- 4. Drivers who go to bars more than once a month, do not have kids and are in non-farming jobs, accepted coupons 71% of the times (393 out of 551 coupons accepted)
+ 4. Drivers who go to bars more than once a month, did not have kids passangers and are in non-farming jobs, accepted coupons 71% of the times (393 out of 551 coupons accepted)
  
     ![Drivers more than once a month, no kids, non farming](plots/8-bar_morethanoncemonth_nokids_nonfarming.png)
 
-5. Acceptance rates of cheap restaurant coupons to drivers < 50k income is much higher than acceptance rates of - bar coupons to drivers who go to bars once a month, had no kids in the car and were not widowed, and
-- bar coupons to drivers who go to bars once a month, and are less than 30 yrs of age
+5. Acceptance rates of cheap restaurant coupons to drivers < 50k income is much higher than acceptance rates of bar coupons to drivers who go to bars once a month, had no kids in the car and were not widowed, OR bar coupons to drivers who go to bars once a month, and are less than 30 yrs of age
 
     ![Cheap restaurants vs Bar coupons](plots/9-bar_cheap_restaurants.png)
 
