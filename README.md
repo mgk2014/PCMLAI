@@ -28,7 +28,7 @@ After analysis, the following tasks were taken to address missing values, redund
     - 2008 bar coupons were distributed out of which 822 (40.94%) were accepted
     - Drivers who went to bar three or fewer times were 4.37 times more likely to accept a bar coupon (669 accepted) v/s those that went more times (153 accepted)
     - Drivers who went to bar more than once a month and were > 25 yrs old accepted coupons 64.5% of the times (530 coupons accepted)
-    - Drivers who go to bars more than once a month, do not have kids and are in non-farming jobs, accepted coupons 71% of the times (393 out of 551 coupons accepted)
+    - Drivers who go to bars more than once a month, do not have kid passengers, and are in non-farming jobs, accepted coupons 71% of the times (393 out of 551 coupons accepted)
  - For drivers that were offered coupons to **cheap restaurants (<20$)**
     - 2775 cheap restaurant coupons were distributed out of which 1963 (70.74%) were accepted
     - Female drivers (with kid passengers) were offered 161 coupons out of which they accepted, 120 coupons at an 75% acceptance rate. Males drivers, when kids were present, on other hand were offered 106 coupons, they accepted 73 (68% acceptance rate)
