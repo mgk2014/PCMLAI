@@ -1,5 +1,3 @@
-# PCMLAI
-
 ## Will a customer accept a coupon?
 
 ### Background
