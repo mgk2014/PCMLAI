@@ -6,7 +6,7 @@ The objective of this exercise is to review coupons dataset and  distinguish var
 
 ### Data Analysis jupyter notebook
 The data analysis notebook can be found at this public github repository:
-https://github.com/mgk2014/PCMLAI-coupon/tree/main
+https://github.com/mgk2014/PCMLAI-coupon
 
 ### Data description
 The data set comes from UCI Machine Learning Repository. Detailed description of this data is available at https://archive.ics.uci.edu/dataset/603/in+vehicle+coupon+recommendation
