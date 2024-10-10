@@ -64,8 +64,13 @@ This analysis includes exploration of overall data set, bar coupons and cheap re
 
 3. Most coupons were offered (6484) when temperature was 80
 
-4. More coupons were offered and accepted when drivers were in opposite direction
+4. There is a higher chance of coupons being accepted at 2pm and 10am. 2H coupons have a higher chance of acceptance than coupons that expire in a day.
+    ![Coupon Time and Expiration](plots/4b_timeduration.png)
+
+5. More coupons were offered and accepted when drivers were in opposite direction
     ![Coupons by direction](plots/4-direction.png)
+
+
 
 ### Bar Coupons
 
