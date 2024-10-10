@@ -81,7 +81,7 @@ This analysis includes exploration of overall data set, bar coupons and cheap re
 
     ![Drivers more than once a month](plots/7-bar_morethanonce_gt25.png)
 
- 4. Drivers who go to bars more than once a month, did not have kids passangers and are in non-farming jobs, accepted coupons 71% of the times (393 out of 551 coupons accepted)
+ 4. Drivers who go to bars more than once a month, did not have kid passangers and are in non-farming jobs, accepted coupons 71% of the times (393 out of 551 coupons accepted)
  
     ![Drivers more than once a month, no kids, non farming](plots/8-bar_morethanoncemonth_nokids_nonfarming.png)
 
